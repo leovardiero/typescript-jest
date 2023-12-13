@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "test:silent": "jest --watchAll --silent --noStackTrace",
-    "test:coverage": "jest --coverage --watchAll --silent --noStackTrace"
+    "test:coverage": "jest --coverage --silent --noStackTrace"
   },
   "keywords": [],
   "author": "",
